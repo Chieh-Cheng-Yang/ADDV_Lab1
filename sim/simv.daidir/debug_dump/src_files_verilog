@@ -1,8 +1,0 @@
-/home/a34458_asu/Desktop/Lab1/RTL/ASYNC_FIFO.sv
-/home/a34458_asu/Desktop/Lab1/RTL/ASYNC_FIFO_mem.sv
-/home/a34458_asu/Desktop/Lab1/RTL/ASYNC_FIFO_tb.sv
-/home/a34458_asu/Desktop/Lab1/RTL/Read_ptr.sv
-/home/a34458_asu/Desktop/Lab1/RTL/Sync_r2w.sv
-/home/a34458_asu/Desktop/Lab1/RTL/Sync_w2r.sv
-/home/a34458_asu/Desktop/Lab1/RTL/Write_ptr.sv
-/home/a34458_asu/Desktop/Lab1/RTL/mem_interface.sv

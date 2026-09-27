@@ -1,0 +1,22 @@
+# VCS
+csrc/
+simv
+simv.daidir/
+DVEFiles/
+
+# Verdi
+novas.fsdb
+novas.log
+verdiLog/
+
+# Design Compiler
+WORK/
+*.rep
+*.log
+*.mr
+*.pvl
+*.svf
+command.log
+
+# Temporary
+ucli.key
