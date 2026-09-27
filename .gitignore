@@ -1,16 +1,23 @@
-# VCS
+# ---------- VCS ----------
 csrc/
+DVEFiles/
 simv
 simv.daidir/
-DVEFiles/
+simv.vdb/
+ucli.key
+*.vpd
 
-# Verdi
+# ---------- Verdi ----------
 novas.fsdb
 novas.log
+novas.rc
+novas.conf
 verdiLog/
+verdi_config_file
 
-# Design Compiler
+# ---------- Design Compiler ----------
 WORK/
+cksum_dir/
 *.rep
 *.log
 *.mr
@@ -18,5 +25,3 @@ WORK/
 *.svf
 command.log
 
-# Temporary
-ucli.key
