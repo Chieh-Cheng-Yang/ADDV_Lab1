@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1790532478.525575130, "rt":1.05, "ut":0.13, "st":0.08}}
+{"vcselab":{"timestamp_begin":1790532479.622581636, "rt":0.90, "ut":0.13, "st":0.04}}
+{"link":{"timestamp_begin":1790532480.556922032, "rt":0.16, "ut":0.10, "st":0.03}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1790532478.173750289}
+{"VCS_COMP_START_TIME": 1790532478.173750289}
+{"VCS_COMP_END_TIME": 1790532480.810124225}
+{"VCS_USER_OPTIONS": "-full64 -sverilog ../RTL/ASYNC_FIFO_mem.sv ../RTL/ASYNC_FIFO.sv ../RTL/ASYNC_FIFO_tb.sv ../RTL/Read_ptr.sv ../RTL/Sync_r2w.sv ../RTL/Sync_w2r.sv ../RTL/Write_ptr.sv -debug_access+all -kdb -lca"}
+{"vcs1": {"peak_mem": 505604}}
+{"vcselab": {"peak_mem": 207916}}

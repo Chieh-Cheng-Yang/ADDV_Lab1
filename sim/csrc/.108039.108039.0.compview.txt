@@ -1,0 +1,7 @@
+Command exited with non-zero status 255
+{"vcs1":{"timestamp_begin":1790544748.625217585, "rt":6.92, "ut":0.06, "st":0.04}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1790544748.064701553}
+{"VCS_COMP_START_TIME": 1790544748.064701553}
+{"VCS_COMP_END_TIME": 1790544755.583406178}
+{"VCS_USER_OPTIONS": "-full64 -sverilog ../RTL/ASYNC_FIFO_mem.sv ../RTL/ASYNC_FIFO.sv ../RTL/ASYNC_FIFO_tb.sv ../RTL/mem_interface.sv ../RTL/Read_ptr.sv ../RTL/Sync_r2w.sv ../RTL/Sync_w2r.sv ../RTL/Write_ptr.sv -debug_access+all -kdb -lca"}
+{"vcs1": {"peak_mem": 505056}}

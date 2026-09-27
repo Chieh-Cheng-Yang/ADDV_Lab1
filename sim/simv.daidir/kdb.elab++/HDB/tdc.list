@@ -1,0 +1,8 @@
+../RTL/ASYNC_FIFO.sv
+../RTL/ASYNC_FIFO_mem.sv
+../RTL/ASYNC_FIFO_tb.sv
+../RTL/Read_ptr.sv
+../RTL/Sync_r2w.sv
+../RTL/Sync_w2r.sv
+../RTL/Write_ptr.sv
+../RTL/mem_interface.sv
