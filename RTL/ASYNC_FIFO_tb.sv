@@ -44,6 +44,12 @@ module FIFO_tb#(
     always #7 R_clk = ~R_clk;
 
     initial begin
+	    $fsdbDumpfile("novas.fsdb");
+	    $fsdbDumpvars(0, FIFO_tb);
+	end	
+
+
+    initial begin
         // ----------------------------------------------------------------------------------------------------------------------------------------
 
         // $display("========================");
@@ -148,10 +154,7 @@ module FIFO_tb#(
         join
 
 
-	initial begin
-	    $fsdbDumpfile("novas.fsdb");
-	    $fsdbDumpvars(0, FIFO_tb);
-	end	
+	
 
         $finish;
     end
