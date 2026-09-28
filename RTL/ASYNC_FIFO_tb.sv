@@ -148,6 +148,11 @@ module FIFO_tb#(
         join
 
 
+	initial begin
+	    $fsdbDumpfile("novas.fsdb");
+	    $fsdbDumpvars(0, FIFO_tb);
+	end	
+
         $finish;
     end
 
